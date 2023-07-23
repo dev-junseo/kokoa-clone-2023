@@ -1,3 +1,3 @@
 # Kokoa Clone 2023 Update
 
-Let's do it!!
+HTML & CSS practice
