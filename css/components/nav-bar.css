@@ -27,3 +27,6 @@
     left: 30px;
     bottom: 25px;
 }
+.ellipsis__point {
+    right: -8px;
+}
